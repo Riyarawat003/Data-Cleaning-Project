@@ -30,7 +30,7 @@ The goal of this project is to clean and prepare the Layoffs dataset by handling
 
 # Data Cleaning Process
 The dataset was cleaned using SQL queries in MySQL Workbench following these structured steps:
-1 Exploring the Dataset
+ 1 Exploring the Dataset
 	•	Loaded the raw dataset into MySQL.
 	•	Checked the number of rows and columns.
 	•	Identified issues like missing values, duplicate records, inconsistent text formatting, incorrect data types, and test data.
