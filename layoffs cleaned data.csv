@@ -1,0 +1,1001 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions,rn
+&open,dublin,marketing,9,0.09,2022-11-17,"Series A",ireland,35,1
+paid,toronto,marketing,19,0.17,2023-01-27,"Series B",canada,21,1
+"100 thieves","los angeles",consumer,12,0.2669565217391305,2022-07-13,"Series C","united states",120,1
+"100 thieves","los angeles",retail,0,0.27253968253968247,2023-01-10,"Series C","united states",120,1
+"10x genomics","sf bay area",healthcare,100,0.08,2022-08-04,Post-IPO,"united states",242,1
+1stdibs,"new york city",retail,70,0.17,2020-04-02,"Series D","united states",253,1
+2tm,"sao paulo","crypto currency",90,0.12,2022-06-01,Unknown,brazil,250,1
+2tm,"sao paulo","crypto currency",100,0.15,2022-09-01,Unknown,brazil,250,1
+2u,"washington d.c.",education,0,0.2,2022-07-28,Post-IPO,"united states",426,1
+54gene,"washington d.c.",healthcare,95,0.3,2022-08-29,"Series B","united states",44,1
+"5b solar",sydney,energy,0,0.25,2022-06-03,"Series A",australia,12,1
+6sense,"sf bay area",sales,150,0.1,2022-10-12,"Series E","united states",426,1
+"80 acres farms",cincinnati,food,0,0.1,2023-01-18,Unknown,"united states",275,1
+8x8,"sf bay area",support,155,0.07,2023-01-18,Post-IPO,"united states",253,1
+8x8,"sf bay area",support,200,0.09,2022-10-04,Post-IPO,"united states",253,1
+98point6,seattle,healthcare,0,0.1,2022-07-21,"Series E","united states",247,1
+99,"sao paulo",transportation,75,0.02,2022-09-20,Acquired,brazil,244,1
+abra,"sf bay area","crypto currency",12,0.05,2022-06-30,"Series C","united states",106,1
+absci,vancouver,healthcare,40,0.28008064516129033,2022-08-09,Post-IPO,"united states",237,1
+acast,stockholm,media,70,0.15,2022-09-15,Post-IPO,sweden,126,1
+accolade,seattle,healthcare,0,0.28008064516129033,2023-03-03,Post-IPO,"united states",458,1
+acko,mumbai,finance,45,0.09,2020-04-01,Unknown,india,143,1
+acorns,portland,finance,50,0.24579896907216495,2020-05-26,Unknown,"united states",207,1
+actifio,boston,data,54,0.19599999999999998,2020-12-16,Acquired,"united states",352,1
+activecampaign,chicago,marketing,0,0.15,2022-10-03,"Series C","united states",360,1
+ada,toronto,support,0,0.19624999999999995,2023-02-01,"Series C",canada,190,1
+ada,toronto,support,78,0.16,2022-09-20,"Series C",canada,190,1
+"ada health",berlin,healthcare,50,0.28008064516129033,2022-10-17,"Series B",germany,189,1
+"ada support",toronto,support,36,0.23,2020-04-24,"Series B",canada,60,1
+"adaptive biotechnologies",seattle,healthcare,100,0.12,2022-03-08,Post-IPO,"united states",406,1
+adara,"sf bay area",travel,0,0.3180952380952381,2020-03-31,"Series C","united states",67,1
+addepar,"sf bay area",finance,20,0.03,2023-01-18,"Series F","united states",491,1
+addi,bogota,finance,0,0.24579896907216495,2022-06-14,"Series C",colombia,376,1
+adobe,"sf bay area",marketing,100,0.20529702970297023,2022-12-06,Post-IPO,"united states",2,1
+adroll,"salt lake city",marketing,210,0.3,2020-03-31,"Series C","united states",89,1
+advata,seattle,healthcare,32,0.21,2022-10-28,Post-IPO,"united states",0,1
+adwerx,durham,marketing,40,0.20529702970297023,2022-07-07,Unknown,"united states",20,1
+affirm,"sf bay area",finance,0,0.01,2022-11-03,Post-IPO,"united states",1500,1
+affirm,"sf bay area",finance,500,0.19,2023-02-08,Post-IPO,"united states",1500,1
+afterverse,brasilia,consumer,60,0.2,2022-06-03,Unknown,brazil,0,1
+agoda,singapore,travel,1500,0.25,2020-05-18,Acquired,singapore,0,1
+ahead,"sf bay area",healthcare,44,1,2022-04-14,Unknown,"united states",9,1
+air,"new york city",marketing,0,0.16,2020-09-16,"Series A","united states",18,1
+airbnb,"sf bay area",travel,1900,0.25,2020-05-05,"Private Equity","united states",5400,1
+airbnb,"sf bay area",unknown,30,0.19000000000000003,2023-03-03,Post-IPO,"united states",6400,1
+airlift,lahore,logistics,0,1,2022-07-12,"Series B",pakistan,109,1
+airmap,"los angeles",aerospace,0,0.5650000000000001,2020-04-30,Unknown,"united states",75,1
+airtable,"sf bay area",product,254,0.2,2022-12-08,"Series F","united states",1400,1
+airtame,copenhagen,consumer,15,0.2669565217391305,2022-06-15,Unknown,denmark,7,1
+airtasker,sydney,consumer,0,0.2669565217391305,2022-07-04,"Series C",australia,26,1
+airtime,"new york city",consumer,30,0.2,2022-05-23,"Series B","united states",33,1
+"airy rooms",jakarta,travel,0,0.7,2020-04-22,Unknown,indonesia,0,1
+aiven,helsinki,infrastructure,0,0.2,2023-01-18,"Series D",finland,420,1
+ajaib,jakarta,finance,67,0.08,2022-11-28,Unknown,indonesia,245,1
+akerna,denver,logistics,0,0.18275862068965518,2022-05-27,Unknown,"united states",46,1
+"akili labs",baltimore,healthcare,46,0.3,2023-01-12,Seed,"united states",0,1
+akulaku,jakarta,finance,100,0.24579896907216495,2020-04-15,"Series D",indonesia,160,1
+alayacare,montreal,healthcare,80,0.14,2022-08-16,"Series D",canada,293,1
+albert,"los angeles",finance,20,0.08,2022-06-10,"Series C","united states",175,1
+alegion,austin,data,0,0.19599999999999998,2020-04-03,"Series A","united states",16,1
+alerzo,ibadan,retail,0,0.27253968253968247,2022-09-02,"Series B",nigeria,16,1
+alerzo,ibadan,retail,400,0.27253968253968247,2023-03-06,"Series B",nigeria,16,1
+alice,"sao paulo",healthcare,63,0.28008064516129033,2022-07-11,"Series C",brazil,174,1
+alice,"sao paulo",healthcare,113,0.16,2022-12-09,"Series C",brazil,174,1
+"aliexpress russia",moscow,retail,400,0.4,2022-05-14,Acquired,russia,60,1
+allbirds,"sf bay area",retail,23,0.27253968253968247,2022-07-28,Post-IPO,"united states",202,1
+allyo,"sf bay area",hr,0,0.21926829268292683,2020-04-03,"Series B","united states",64,1
+almanac,"sf bay area",other,0,0.2231764705882353,2022-08-13,"Series A","united states",45,1
+"alto pharmacy","sf bay area",healthcare,0,0.28008064516129033,2022-07-14,"Series E","united states",560,1
+"alto pharmacy","sf bay area",healthcare,47,0.06,2020-09-29,"Series D","united states",356,1
+amazon,seattle,retail,150,0.27253968253968247,2022-10-28,Post-IPO,"united states",108,1
+amazon,seattle,retail,8000,0.02,2023-01-04,Post-IPO,"united states",108,1
+amazon,seattle,retail,10000,0.03,2022-11-16,Post-IPO,"united states",108,1
+"amber group","hong kong","crypto currency",0,0.1,2022-09-09,"Series B","hong kong",328,1
+"ambev tech",blumenau,food,50,0.3240361445783133,2023-03-02,Acquired,brazil,0,1
+amdocs,"st. louis",support,700,0.03,2023-01-02,Post-IPO,"united states",0,1
+"american robotics",boston,other,50,0.65,2023-01-17,Acquired,"united states",92,1
+amobee,"sf bay area",marketing,0,0.20529702970297023,2022-11-09,Acquired,"united states",72,1
+amount,chicago,finance,0,0.18,2022-06-27,Unknown,"united states",283,1
+amount,chicago,finance,130,0.25,2023-02-27,Unknown,"united states",283,1
+amperity,seattle,marketing,13,0.03,2022-08-20,"Series D","united states",187,1
+amplero,seattle,marketing,17,1,2020-03-29,"Series B","united states",25,1
+anagram,"los angeles",healthcare,17,0.28008064516129033,2020-04-03,"Series A","united states",14,1
+andela,"new york city",recruiting,135,0.1,2020-05-05,"Series D","united states",181,1
+angellist,"sf bay area",recruiting,20,0.3233333333333333,2020-03-31,"Series B","united states",26,1
+anodot,"tel aviv",data,35,0.27,2022-07-06,"Series C","united states",64,1
+"antidote health","tel aviv",healthcare,23,0.38,2022-10-23,Unknown,israel,36,1
+anyvision,"tel aviv",security,0,0.15754716981132072,2020-03-19,"Series A",israel,74,1
+anywell,"tel aviv","real estate",11,0.30945945945945946,2022-08-14,"Series A",israel,15,1
+"apartment list","sf bay area","real estate",29,0.1,2022-08-31,"Series D","united states",169,1
+"apeel sciences","santa barbara",food,0,0.3240361445783133,2022-07-11,"Series E","united states",640,1
+apollo,"sf bay area",product,0,0.15,2022-12-15,"Series D","united states",183,1
+"apollo insurance",vancouver,finance,0,0.25,2022-11-15,"Series B",canada,11,1
+"app annie","sf bay area",data,80,0.18,2020-04-28,Unknown,"united states",156,1
+appgate,miami,security,34,0.08,2023-02-01,Post-IPO,"united states",0,1
+appgate,miami,security,130,0.22,2022-07-21,Post-IPO,"united states",0,1
+applovin,"sf bay area",marketing,300,0.12,2022-06-27,Post-IPO,"united states",1600,1
+applyboard,waterloo,education,90,0.06,2022-11-28,"Series D",canada,483,1
+aqgromalin,chennai,food,80,0.3,2022-06-20,Unknown,india,12,1
+"aqua security",boston,security,65,0.1,2022-12-05,"Series E","united states",265,1
+"aqua security","tel aviv",security,24,0.09,2020-04-01,"Series C",israel,100,1
+arc,"sf bay area",hr,13,0.21926829268292683,2022-07-20,Seed,"united states",1,1
+"arch oncology",brisbane,healthcare,0,1,2023-01-13,"Series C","united states",155,1
+"arch oncology","st. louis",healthcare,0,0.28008064516129033,2023-02-22,"Series C","united states",155,1
+arete,miami,security,0,0.15754716981132072,2022-07-22,Unknown,"united states",0,1
+"argo ai",munich,transportation,100,0.2508131868131868,2020-06-29,Unknown,germany,3600,1
+"argo ai",pittsburgh,transportation,150,0.05,2022-07-07,Unknown,"united states",3600,1
+"argo ai",pittsburgh,transportation,173,0.2508131868131868,2022-10-26,Unknown,"united states",3600,1
+"argo ai","sf bay area",transportation,259,0.2508131868131868,2022-11-01,Unknown,"united states",3600,1
+argyle,"new york city",finance,20,0.07,2022-08-26,"Series B","united states",78,1
+armis,"sf bay area",security,25,0.04,2022-12-08,"Private Equity","united states",537,1
+arrival,london,transportation,0,0.2508131868131868,2022-10-20,Post-IPO,"united kingdom",629,1
+arrival,london,transportation,800,0.5,2023-01-30,Post-IPO,"united kingdom",629,1
+"arrive logistics",austin,logistics,75,0.07,2020-04-03,"Series B","united states",35,1
+article,vancouver,retail,216,0.17,2022-08-04,"Series B",canada,0,1
+articulate,"new york city",education,38,0.3574074074074075,2023-02-02,"Series A","united states",1500,1
+artnight,berlin,retail,26,0.36,2022-08-31,Unknown,germany,0,1
+asana,"sf bay area",other,180,0.09,2022-11-15,Post-IPO,"united states",453,1
+asknicely,portland,support,0,0.19624999999999995,2020-04-07,"Series A","united states",15,1
+aspire,"sf bay area",marketing,23,0.20529702970297023,2022-07-15,"Series A","united states",27,1
+assure,"salt lake city",finance,0,1,2022-11-23,Seed,"united states",2,1
+astra,"sf bay area",aerospace,0,0.16,2022-11-08,Post-IPO,"united states",300,1
+astra,"sf bay area",aerospace,40,0.25,2020-04-05,Unknown,"united states",100,1
+astronomer,cincinnati,data,76,0.2,2023-01-04,"Series C","united states",282,1
+"atlanta tech village",atlanta,"real estate",0,0.5,2020-04-02,Unknown,"united states",0,1
+"atlas obscura","new york city",media,15,0.23245901639344263,2020-06-18,"Series B","united states",32,1
+atlassian,sydney,other,500,0.05,2023-03-06,Post-IPO,australia,210,1
+atob,"sf bay area",finance,32,0.3,2022-10-19,"Series B","united states",177,1
+atome,singapore,finance,0,0.24579896907216495,2022-10-06,Unknown,singapore,645,1
+atsu,seattle,infrastructure,6,1,2020-04-10,Unknown,"united states",1,1
+attentive,"new york city",marketing,0,0.15,2023-01-05,"Series E","united states",863,1
+au10tix,"tel aviv",security,19,0.09,2023-01-31,Unknown,israel,80,1
+augury,"new york city",manufacturing,20,0.05,2023-01-04,"Series E","united states",274,1
+aura,boston,security,70,0.09,2022-06-23,"Series F","united states",500,1
+"aura financial","sf bay area",finance,0,1,2021-01-11,Unknown,"united states",584,1
+autobooks,detroit,finance,0,0.24579896907216495,2022-12-10,"Series C","united states",97,1
+autodesk,"sf bay area",other,250,0.02,2023-02-02,Post-IPO,"united states",0,1
+autograph,"los angeles","crypto currency",0,0.2941025641025641,2022-12-16,"Series B","united states",205,1
+automatic,"sf bay area",transportation,0,1,2020-05-01,Acquired,"united states",24,1
+"automation anywhere","sf bay area",other,260,0.1,2020-04-27,"Series B","united states",840,1
+automox,boulder,infrastructure,0,0.11,2022-04-18,"Series C","united states",152,1
+avalara,seattle,finance,0,0.24579896907216495,2023-01-20,Acquired,"united states",341,1
+"avantage entertainment",minneapolis,media,5,0.2,2020-04-03,Unknown,"united states",0,1
+avantstay,"los angeles",travel,80,0.3180952380952381,2022-06-29,Unknown,"united states",811,1
+avantstay,"los angeles",travel,144,0.22,2022-11-09,"Private Equity","united states",686,1
+avast,phoenix,security,0,0.25,2022-11-10,Unknown,"united states",0,1
+avo,"tel aviv",food,500,0.67,2022-05-01,"Series B",israel,45,1
+aware,columbus,security,0,0.15754716981132072,2023-01-06,"Series C","united states",88,1
+away,"new york city",retail,60,0.1,2020-04-07,"Series D","united states",181,1
+awok,dubai,retail,0,1,2020-09-02,"Series A","united arab emirates",30,1
+aya,toronto,finance,5,0.25,2020-11-19,Seed,"united states",3,1
+b8ta,"sf bay area",retail,250,0.5,2020-03-26,"Series C","united states",88,1
+babylon,london,healthcare,100,0.28008064516129033,2022-07-12,Post-IPO,"united kingdom",1100,1
+"back market",paris,retail,93,0.13,2022-12-23,"Series E",france,1000,1
+bakkt,atlanta,"crypto currency",0,0.15,2022-12-08,Post-IPO,"united states",932,1
+"bally's interactive",providence,unknown,0,0.15,2023-01-18,Post-IPO,"united states",946,1
+balto,"st. louis",sales,30,0.11476190476190477,2022-06-22,"Series B","united states",51,1
+balto,"st. louis",sales,35,0.11476190476190477,2022-12-12,"Series B","united states",51,1
+"bamboo health",louisville,healthcare,52,0.28008064516129033,2022-07-01,Unknown,"united states",0,1
+banxa,melbourne,"crypto currency",70,0.3,2022-06-27,Post-IPO,australia,13,1
+baraja,sydney,transportation,0,0.75,2023-02-08,Unknown,australia,63,1
+bark,"new york city",retail,126,0.12,2023-02-09,Post-IPO,"united states",0,1
+baton,"sf bay area",transportation,16,0.25,2022-06-29,"Series A","united states",13,1
+bcredi,curitiba,finance,0,0.24579896907216495,2020-03-27,"Series A",brazil,0,1
+"beam benefits",columbus,healthcare,31,0.08,2023-02-08,"Series E","united states",168,1
+beamery,london,hr,0,0.12,2023-01-10,"Series D","united states",223,1
+beat,athens,transportation,0,0.2508131868131868,2022-11-08,"Series B",greece,6,1
+beetech,"sao paulo",finance,30,0.24579896907216495,2020-04-10,"Series B",brazil,14,1
+bench,vancouver,finance,47,0.1,2020-03-27,"Series B",canada,49,1
+benevity,calgary,other,137,0.14,2023-01-18,Unknown,canada,69,1
+"benitago group","new york city",retail,0,0.14,2022-11-04,"Series A","united states",380,1
+"berkeley lights","sf bay area",healthcare,0,0.12,2022-08-09,Post-IPO,"united states",272,1
+"berlin brands group",berlin,retail,100,0.1,2022-06-10,Unknown,germany,1000,1
+bestow,dallas,finance,41,0.14,2022-06-24,"Series C","united states",137,1
+better.com,"new york city","real estate",0,0.30945945945945946,2022-04-19,Unknown,"united states",905,1
+better.com,"new york city","real estate",900,0.09,2021-12-01,Unknown,"united states",905,1
+better.com,"new york city","real estate",3000,0.33,2022-03-08,Unknown,"united states",905,1
+bettercloud,"new york city",security,0,0.15754716981132072,2020-05-13,"Series E","united states",111,1
+betterfly,santiago,healthcare,0,0.3,2023-01-18,"Series C",chile,204,1
+betterfly,santiago,healthcare,30,0.28008064516129033,2022-08-11,"Series C",chile,204,1
+betterment,"new york city",finance,28,0.24579896907216495,2023-02-15,"Series F","united states",435,1
+bevi,boston,food,30,0.2,2020-03-27,"Series C","united states",60,1
+"beyond meat","los angeles",food,40,0.3240361445783133,2022-08-03,Post-IPO,"united states",122,1
+"beyond meat","los angeles",food,200,0.19,2022-10-14,Post-IPO,"united states",122,1
+beyondminds,"tel aviv",data,65,1,2022-05-23,"Series A",israel,16,1
+bharatagri,mumbai,food,40,0.43,2023-01-15,"Series A",india,21,1
+"big fish games",seattle,media,250,0.23245901639344263,2020-09-01,Acquired,"united states",95,1
+bigbear.ai,baltimore,data,0,0.07,2022-09-08,Post-IPO,"united states",200,1
+bigcommerce,austin,retail,180,0.13,2022-12-15,Post-IPO,"united states",224,1
+bikayi,bengaluru,retail,0,0.27253968253968247,2022-07-28,"Series A",india,12,1
+bilibili,shanghai,media,0,0.3,2022-12-27,Post-IPO,china,3700,1
+biomarin,"sf bay area",healthcare,120,0.04,2022-10-07,Post-IPO,"united states",585,1
+bird,"los angeles",transportation,138,0.23,2022-06-07,Post-IPO,"united states",783,1
+bird,"los angeles",transportation,406,0.3,2020-03-27,"Series D","united states",623,1
+bitfarms,quebec,"crypto currency",0,0.2941025641025641,2020-04-06,Post-IPO,canada,25,1
+bitfront,"sf bay area","crypto currency",0,1,2022-11-29,Unknown,"united states",0,1
+bitgo,"sf bay area","crypto currency",0,0.12,2020-04-17,"Series B","united states",69,1
+bitmex,non-u.s.,"crypto currency",0,0.3,2022-11-02,Seed,seychelles,0,1
+bitmex,non-u.s.,"crypto currency",75,0.25,2022-04-04,Seed,seychelles,0,1
+bitoasis,dubai,"crypto currency",9,0.05,2022-06-19,"Series B","united arab emirates",30,1
+bitpanda,vienna,"crypto currency",270,0.27,2022-06-24,"Series C",austria,546,1
+bitrise,budapest,infrastructure,0,0.14,2022-09-14,"Series C",hungary,83,1
+bitsight,"tel aviv",security,40,0.15754716981132072,2023-02-26,Unknown,israel,401,1
+bitso,"mexico city","crypto currency",80,0.11,2022-05-26,"Series C",mexico,378,1
+bitso,"mexico city","crypto currency",100,0.2941025641025641,2022-11-29,"Series C",mexico,378,1
+bittitan,seattle,data,70,0.27,2021-11-18,Acquired,"united states",46,1
+bittorrent,"sf bay area",infrastructure,92,0.28800000000000003,2023-01-20,Acquired,"united states",0,1
+bittrex,seattle,"crypto currency",80,0.2941025641025641,2023-02-02,Unknown,"united states",0,1
+bizongo,mumbai,logistics,140,0.18275862068965518,2020-07-10,"Series C",india,70,1
+bizpay,sydney,finance,0,0.3,2022-05-04,Unknown,australia,45,1
+bizzabo,"new york city",marketing,100,0.37,2022-12-01,"Series E","united states",194,1
+bizzabo,"new york city",marketing,120,0.3,2022-07-05,"Series E","united states",194,1
+"black shark",shenzen,hardware,900,0.22,2023-01-13,Unknown,china,0,1
+blackbaud,charleston,other,500,0.14,2023-03-06,Post-IPO,"united states",0,1
+blackbuck,bengaluru,logistics,200,0.18275862068965518,2020-04-17,"Series D",india,293,1
+blackline,"los angeles",finance,95,0.05,2022-12-08,"Private Equity","united states",220,1
+"bleacher report",london,media,20,0.23245901639344263,2020-09-11,Acquired,"united kingdom",41,1
+blend,"sf bay area",finance,100,0.06,2022-11-10,Post-IPO,"united states",665,1
+blend,"sf bay area",finance,200,0.1,2022-04-19,Post-IPO,"united states",665,1
+blend,"sf bay area",finance,220,0.12,2022-08-15,Post-IPO,"united states",665,1
+blend,"sf bay area",finance,340,0.28,2023-01-10,Post-IPO,"united states",665,1
+blockchain.com,london,"crypto currency",110,0.28,2023-01-12,"Series D","united kingdom",490,1
+blockchain.com,london,"crypto currency",150,0.25,2022-07-21,"Series D","united kingdom",490,1
+blockfi,"new york city","crypto currency",0,1,2022-11-28,"Series E","united states",1000,1
+blockfi,"new york city","crypto currency",250,0.2,2022-06-13,"Series E","united states",1000,1
+bloomtech,"sf bay area",education,88,0.5,2022-12-01,Unknown,"united states",0,1
+"blue apron","new york city",food,0,0.1,2022-12-08,Post-IPO,"united states",352,1
+blueground,"new york city","real estate",130,0.25,2020-03-27,"Series B","united states",77,1
+bluestacks,"sf bay area",other,60,0.2231764705882353,2022-07-20,"Series C","united states",48,1
+"blume global","sf bay area",logistics,30,0.1,2020-03-30,Unknown,"united states",0,1
+bluprint,denver,education,137,1,2020-05-26,Acquired,"united states",108,1
+"bm technologies",philadelphia,finance,0,0.25,2023-01-30,Post-IPO,"united states",0,1
+bolt,lagos,transportation,17,0.2508131868131868,2023-02-21,"Series F",nigeria,0,1
+bolt,"sf bay area",finance,50,0.1,2023-01-24,"Series E","united states",1300,1
+bolt,"sf bay area",finance,240,0.27,2022-05-25,"Series E","united states",1300,1
+bond,"sf bay area",finance,0,0.24579896907216495,2022-06-07,"Series A","united states",42,1
+bonsai,toronto,retail,29,0.34,2022-04-26,"Series A",canada,27,1
+bonsai,toronto,retail,30,0.55,2022-06-20,"Series A",canada,27,1
+bonterra,austin,other,140,0.1,2023-01-13,Unknown,"united states",0,1
+bookclub,"salt lake city",education,12,0.25,2022-05-31,"Series A","united states",26,1
+booking.com,amsterdam,travel,4375,0.25,2020-07-30,Acquired,netherlands,0,1
+booking.com,"grand rapids",travel,226,0.3180952380952381,2022-11-01,Acquired,"united states",0,1
+bookmyshow,mumbai,consumer,270,0.18,2020-05-28,Unknown,india,224,1
+booksy,"sf bay area",consumer,200,0.2669565217391305,2020-04-01,"Series B","united states",48,1
+booktopia,sydney,retail,0,0.27253968253968247,2022-06-28,"Series A",australia,23,1
+booktopia,sydney,retail,30,0.27253968253968247,2023-01-23,"Series A",australia,23,1
+"boosted commerce","los angeles",retail,0,0.05,2022-07-22,"Series B","united states",137,1
+boozt,malmo,retail,70,0.05,2022-06-09,Post-IPO,sweden,56,1
+borrowell,toronto,finance,15,0.2,2020-04-06,"Series B",canada,72,1
+"bossa nova","sf bay area",retail,0,0.5,2020-11-02,Unknown,"united states",102,1
+"bossa nova","sf bay area",retail,61,0.27253968253968247,2020-06-29,Unknown,"united states",102,1
+bounce,bengaluru,transportation,40,0.05,2023-01-06,"Series D",india,214,1
+bounce,bengaluru,transportation,120,0.2508131868131868,2020-03-19,"Series D",india,214,1
+bounce,bengaluru,transportation,130,0.22,2020-06-29,"Series D",india,214,1
+bounce,bengaluru,transportation,200,0.4,2021-02-22,"Series D",india,214,1
+bouncex,"new york city",marketing,77,0.2,2020-04-06,"Series B","united states",75,1
+brainbase,"los angeles",sales,0,0.11476190476190477,2022-07-28,"Series A","united states",12,1
+brainly,krakow,education,25,0.3574074074074075,2022-11-06,"Series D",poland,148,1
+branch,"new york city",retail,3,0.27,2020-06-11,Seed,"united states",2,1
+"branch metrics","sf bay area",marketing,100,0.2,2020-04-07,"Series E","united states",367,1
+"brave care",portland,healthcare,40,0.33,2022-09-06,"Series B","united states",42,1
+breathe,"new delhi",healthcare,50,0.33,2022-06-14,"Series A",india,6,1
+breather,montreal,"real estate",120,0.8,2020-12-16,"Series D",canada,131,1
+brex,"sf bay area",finance,62,0.15,2020-05-29,"Series C","united states",732,1
+brex,"sf bay area",finance,136,0.11,2022-10-11,"Series D","united states",1500,1
+"bridge connector",nashville,healthcare,154,1,2020-11-17,"Series B","united states",45,1
+bridgit,waterloo,construction,13,0.13,2022-12-06,"Series B",canada,36,1
+"bright machines","sf bay area",data,30,0.08,2022-06-28,Unknown,israel,250,1
+"bright money",bengaluru,finance,100,0.5,2022-07-15,"Series A",india,31,1
+brighte,sydney,energy,30,0.15,2022-06-20,"Series C",australia,145,1
+brighte,sydney,energy,58,0.21428571428571425,2022-09-09,"Series C",australia,145,1
+brightline,"sf bay area",healthcare,0,0.2,2022-11-01,"Series C","united states",212,1
+bringg,"tel aviv",logistics,10,0.1,2020-04-21,"Series D",israel,84,1
+britishvolt,london,transportation,206,1,2023-01-17,Unknown,"united kingdom",2400,1
+briza,toronto,finance,26,0.4,2022-12-20,"Series A",canada,10,1
+brodmann17,"tel aviv",other,0,1,2022-12-09,"Series A",israel,25,1
+bryter,berlin,product,100,0.3,2022-07-13,"Series B",germany,89,1
+buenbit,"buenos aires","crypto currency",80,0.45,2022-05-23,"Series A",argentina,11,1
+builder,"los angeles",product,39,0.14,2020-06-04,"Series A","united states",29,1
+"built in",chicago,recruiting,28,0.3233333333333333,2020-04-10,"Series C","united states",29,1
+"built in",chicago,recruiting,50,0.25,2022-10-05,"Series C","united states",29,1
+bullhorn,boston,sales,100,0.11476190476190477,2020-04-30,Acquired,"united states",32,1
+bullish,"hong kong","crypto currency",30,0.08,2022-07-05,Unknown,"hong kong",300,1
+bungalow,"sf bay area","real estate",70,0.30945945945945946,2022-06-22,"Series C","united states",171,1
+busbud,montreal,transportation,23,0.32,2020-04-06,"Series B",canada,21,1
+buser,"sao paulo",transportation,160,0.3,2022-12-08,"Series C",brazil,138,1
+"bustle digital group","new york city",media,0,0.08,2023-02-01,"Series E","united states",80,1
+"bustle digital group","new york city",media,19,0.23245901639344263,2020-04-03,"Series E","united states",80,1
+"bustle digital group","new york city",media,24,0.08,2020-04-03,"Series E","united states",80,1
+"butler hospitality","new york city",food,1000,1,2022-07-08,"Series B","united states",50,1
+"butterfly network",boston,healthcare,0,0.25,2023-01-04,Post-IPO,"united states",530,1
+"butterfly network","new haven",healthcare,0,0.1,2022-08-02,Post-IPO,"united states",530,1
+button,"new york city",marketing,48,0.35,2020-04-08,"Series C","united states",64,1
+bux,amsterdam,finance,0,0.24579896907216495,2023-01-22,"Series C",netherlands,115,1
+"buy.com / rakuten","sf bay area",retail,87,1,2020-07-30,Acquired,"united states",42,1
+buzzer,"new york city",media,0,0.2,2022-06-20,Unknown,"united states",32,1
+buzzfeed,"new york city",media,180,0.12,2022-12-06,Post-IPO,"united states",696,1
+bvaccel,"san diego",marketing,25,0.25,2020-04-08,Unknown,"united states",0,1
+bybit,singapore,"crypto currency",0,0.2941025641025641,2022-06-20,Unknown,singapore,0,1
+bybit,singapore,"crypto currency",600,0.3,2022-06-20,Unknown,singapore,0,1
+byju's,bengaluru,education,1500,0.3574074074074075,2023-02-02,"Private Equity",india,5500,1
+byju's,bengaluru,education,2500,0.05,2022-10-12,"Private Equity",india,5500,1
+bytedance,mumbai,consumer,1800,0.2669565217391305,2021-01-27,Unknown,india,7400,1
+bytedance,shanghai,consumer,0,0.1,2023-01-03,Unknown,china,9400,1
+bytedance,shanghai,consumer,150,0.2669565217391305,2022-06-17,Unknown,china,9400,1
+bytedance,shanghai,consumer,1800,0.2669565217391305,2021-08-05,Unknown,china,9400,1
+byton,"sf bay area",transportation,0,0.2508131868131868,2020-06-27,"Series C","united states",1200,1
+c2fo,"kansas city",finance,20,0.02,2022-12-09,"Series H","united states",537,1
+"c6 bank","sao paulo",finance,0,0.24579896907216495,2023-02-06,Unknown,brazil,2300,1
+"c6 bank","sao paulo",finance,60,0.06,2020-04-06,Unknown,brazil,0,1
+cabin,"sf bay area",travel,0,0.2,2020-03-23,Seed,"united states",3,1
+cadre,"new york city","real estate",28,0.25,2020-05-11,"Series C","united states",133,1
+calibrate,"new york city",healthcare,156,0.24,2022-07-08,"Series B","united states",127,1
+caliva,"sf bay area",retail,20,0.27253968253968247,2020-03-30,"Series A","united states",75,1
+"callisto media","sf bay area",media,0,0.35,2022-10-25,"Series D","united states",0,1
+"callisto media","sf bay area",media,140,0.35,2022-07-21,"Series D","united states",0,1
+calm,"sf bay area",healthcare,90,0.2,2022-08-11,"Series C","united states",218,1
+cameo,chicago,consumer,80,0.2669565217391305,2022-11-09,Unknown,"united states",165,1
+cameo,chicago,consumer,87,0.25,2022-05-04,Unknown,"united states",165,1
+"camp k12",gurugram,education,0,0.7,2023-01-23,"Series A",india,16,1
+"candidate labs","sf bay area",hr,0,0.21926829268292683,2022-09-21,Seed,"united states",5,1
+"candy digital","new york city","crypto currency",33,0.33,2022-11-28,"Series A","united states",100,1
+canoo,"los angeles",transportation,58,0.06,2022-07-01,Post-IPO,"united states",300,1
+capillary,bengaluru,retail,0,0.27253968253968247,2020-04-02,"Private Equity",india,102,1
+"capital one","washington d.c.",finance,1100,0.24579896907216495,2023-01-19,Post-IPO,"united states",0,1
+capiter,cairo,finance,0,0.24579896907216495,2022-09-09,"Series A",egypt,33,1
+capitolis,"new york city",finance,0,0.25,2022-11-18,"Series D","united states",281,1
+capitolis,"new york city",finance,37,0.25,2022-11-17,"Series D","united states",281,1
+capsule,"new york city",healthcare,0,0.13,2022-07-19,"Series D","united states",570,1
+"captain fresh",bengaluru,food,120,0.3240361445783133,2023-01-15,"Series C",india,126,1
+captivateiq,"sf bay area",sales,31,0.1,2022-11-15,"Series C","united states",164,1
+carbon,"sf bay area",hardware,0,0.22,2022-10-26,"Series E","united states",683,1
+"carbon health","sf bay area",healthcare,200,0.28008064516129033,2023-01-06,"Series D","united states",522,1
+"carbon health","sf bay area",healthcare,250,0.08,2022-06-02,"Series D","united states",522,1
+cardekho,gurugram,transportation,0,0.2508131868131868,2022-08-03,"Series E",india,497,1
+cardekho,gurugram,transportation,200,0.2508131868131868,2020-05-25,"Series D",india,247,1
+cardlytics,atlanta,marketing,51,0.20529702970297023,2022-11-14,Post-IPO,"united states",212,1
+care.com,boston,consumer,81,0.2669565217391305,2020-04-30,Acquired,"united states",156,1
+careem,dubai,transportation,536,0.31,2020-05-04,Acquired,"united arab emirates",771,1
+"career karma","sf bay area",education,22,0.3574074074074075,2023-01-12,"Series B","united states",51,1
+"career karma","sf bay area",education,60,0.33,2022-07-28,"Series B","united states",51,1
+careerarc,"los angeles",hr,0,0.21926829268292683,2023-01-06,"Private Equity","united states",30,1
+carerev,"los angeles",retail,0,0.27253968253968247,2023-01-25,"Series A","united states",51,1
+cargurus,boston,transportation,130,0.13,2020-04-16,Post-IPO,"united states",1,1
+caribou,"washington d.c.",finance,0,0.24579896907216495,2022-12-12,"Series C","united states",189,1
+carousell,singapore,retail,110,0.1,2022-12-01,"Private Equity",singapore,372,1
+cars24,gurugram,transportation,600,0.06,2022-05-19,"Series G",india,1300,1
+carsome,"kuala lumpur",transportation,0,0.1,2022-09-30,"Series E",malaysia,607,1
+cart.com,austin,retail,0,0.27253968253968247,2023-01-10,Unknown,"united states",383,1
+carta,"sf bay area",finance,161,0.16,2020-04-15,"Series E","united states",447,1
+carta,"sf bay area",hr,0,0.1,2023-01-11,"Series G","united states",1100,1
+carvana,phoenix,transportation,0,0.2508131868131868,2023-01-13,Post-IPO,"united states",1600,1
+carvana,phoenix,transportation,1500,0.08,2022-11-18,Post-IPO,"united states",1600,1
+carvana,phoenix,unknown,2500,0.12,2022-05-10,Post-IPO,"united states",1600,1
+carwow,london,transportation,70,0.2,2022-11-25,Unknown,"united kingdom",157,1
+casavo,milan,"real estate",0,0.3,2023-02-13,Unknown,italy,708,1
+"cashfree payments",bengaluru,finance,100,0.24579896907216495,2023-01-12,"Series B",india,41,1
+casper,"new york city",retail,0,0.27253968253968247,2021-09-14,Post-IPO,"united states",339,1
+casper,"new york city",retail,78,0.21,2020-04-21,Post-IPO,"united states",339,1
+"castlight health","sf bay area",healthcare,0,0.13,2020-05-04,Post-IPO,"united states",184,1
+catalant,boston,other,30,0.2231764705882353,2020-03-30,"Series E","united states",110,1
+catalyst,"new york city",support,0,0.19624999999999995,2022-07-21,"Series B","united states",45,1
+catch.com.au,melbourne,retail,100,0.27253968253968247,2023-02-06,Acquired,australia,80,1
+cazoo,london,transportation,0,0.2508131868131868,2023-01-18,Post-IPO,"united kingdom",2000,1
+cazoo,london,transportation,750,0.15,2022-06-07,Post-IPO,"united kingdom",2000,1
+cedar,"new york city",healthcare,0,0.24,2022-07-07,"Series D","united states",351,1
+celsius,"new york city","crypto currency",150,0.25,2022-07-03,"Series B","united states",864,1
+"century therapeutics",philadelphia,healthcare,0,0.28008064516129033,2023-01-09,Post-IPO,"united states",560,1
+cerebral,"sf bay area",healthcare,0,0.28008064516129033,2022-05-31,"Series C","united states",462,1
+cerebral,"sf bay area",healthcare,285,0.15,2023-02-27,"Series C","united states",462,1
+cerebral,"sf bay area",healthcare,400,0.2,2022-10-24,"Series C","united states",462,1
+chainalysis,"new york city","crypto currency",44,0.05,2023-02-01,"Series F","united states",536,1
+"change invest",amsterdam,finance,0,0.24,2022-11-27,Unknown,netherlands,22,1
+change.org,"sf bay area",other,0,0.19,2022-07-28,"Series D","united states",72,1
+chargebee,"sf bay area",finance,142,0.1,2022-11-02,"Series H","united states",468,1
+checkmarx,"tel aviv",security,0,0.15754716981132072,2020-05-18,Acquired,israel,92,1
+checkmarx,"tel aviv",security,100,0.1,2022-11-02,"Series C",israel,92,1
+checkout.com,london,finance,100,0.05,2022-09-13,"Series D","united kingdom",1800,1
+checkr,"sf bay area",hr,64,0.12,2020-07-23,"Series D","united states",309,1
+cheddar,"new york city",media,0,0.23245901639344263,2020-04-24,Acquired,"united states",54,1
+cheetah,"sf bay area",food,0,0.3240361445783133,2020-10-25,"Series B","united states",67,1
+chef,seattle,infrastructure,0,0.28800000000000003,2020-10-08,Acquired,"united states",105,1
+chessable,london,consumer,29,0.2669565217391305,2022-07-04,Acquired,"united kingdom",0,1
+"chili piper","new york city",sales,58,0.11476190476190477,2022-11-17,"Series B","united states",54,1
+chime,"sf bay area",finance,156,0.12,2022-11-02,"Series G","united states",2300,1
+chipax,santiago,finance,0,0.24579896907216495,2022-11-11,Seed,chile,2,1
+"chipper cash","sf bay area",finance,50,0.125,2022-12-06,"Series C","united states",302,1
+"chipper cash","sf bay area",finance,100,0.33,2023-02-17,"Series C","united states",302,1
+chope,singapore,food,65,0.24,2022-12-20,"Series E",singapore,50,1
+chownow,"los angeles",food,40,0.1,2022-12-14,"Series C","united states",64,1
+chownow,"los angeles",food,100,0.2,2022-07-13,"Series C","united states",64,1
+chrono24,karlsruhe,retail,65,0.13,2023-01-30,"Series C",germany,205,1
+chrono24,karlsruhe,retail,80,0.27253968253968247,2022-12-08,"Series C",germany,205,1
+ciphertrace,"sf bay area","crypto currency",0,0.2941025641025641,2020-04-09,Unknown,"united states",18,1
+circ,berlin,transportation,100,0.2508131868131868,2020-06-02,Acquired,germany,55,1
+circleci,"sf bay area",product,0,0.17,2022-12-07,"Series F","united states",315,1
+circleup,"sf bay area",finance,0,0.24579896907216495,2022-07-13,"Series C","united states",53,1
+"circulo health",columbus,healthcare,0,0.5,2022-06-16,"Series A","united states",50,1
+cisco,"sf bay area",infrastructure,4100,0.05,2022-11-16,Post-IPO,"united states",2,1
+citizen,"new york city",consumer,33,0.2669565217391305,2023-01-11,"Series C","united states",133,1
+"citrine informatics","sf bay area",data,22,0.27,2023-01-20,"Series C","united states",64,1
+citrix,miami,infrastructure,0,0.15,2023-01-10,Acquired,"united states",20,1
+citymall,gurugram,retail,191,0.3,2022-06-19,"Series C",india,112,1
+claravine,"salt lake city",marketing,0,0.20529702970297023,2020-03-31,Seed,"united states",4,1
+clari,"sf bay area",sales,20,0.11476190476190477,2023-02-06,"Series F","united states",496,1
+clari,"sf bay area",sales,45,0.11476190476190477,2022-08-31,"Series F","united states",496,1
+"clarify health","sf bay area",healthcare,15,0.05,2022-07-22,"Series D","united states",328,1
+classkick,chicago,education,0,0.3574074074074075,2022-08-01,Seed,"united states",1,1
+classpass,"new york city",fitness,154,0.22,2020-04-02,"Series E","united states",549,1
+clear,bengaluru,finance,190,0.2,2022-09-16,"Series C",india,140,1
+"clear capital",reno,"real estate",250,0.25,2023-01-25,Unknown,"united states",0,1
+"clear capital",reno,"real estate",378,0.27,2022-10-14,Unknown,"united states",0,1
+clearbanc,toronto,finance,17,0.08,2020-04-13,"Series B",canada,119,1
+clearbit,"sf bay area",data,0,0.19599999999999998,2020-04-22,"Series A","united states",17,1
+clearco,dublin,finance,0,0.24579896907216495,2022-06-06,"Series C",ireland,681,1
+clearco,toronto,fintech,125,0.25,2022-07-29,"Series C",canada,681,1
+clearco,toronto,finance,50,0.3,2023-01-16,"Series C",canada,698,1
+clearco,toronto,finance,60,0.24579896907216495,2022-06-06,"Series C",canada,681,1
+"clever real estate","st. louis","real estate",0,0.30945945945945946,2020-03-25,"Series A","united states",5,1
+clevertap,mumbai,marketing,60,0.2,2020-04-16,"Series C",india,76,1
+clickup,"san diego",other,60,0.07,2022-05-23,"Series C","united states",537,1
+clinc,"ann arbor",support,40,0.32,2020-04-09,"Series B","united states",59,1
+cloudera,"sf bay area",infrastructure,0,0.28800000000000003,2020-05-05,Post-IPO,"united states",1000,1
+cloudfactory,nairobi,data,0,0.12,2022-11-09,"Private Equity",kenya,78,1
+cloudinary,"sf bay area",media,40,0.08,2022-11-14,Unknown,"united states",100,1
+cloudkitchens,"los angeles","real estate",0,0.30945945945945946,2022-11-03,Unknown,"united states",1300,1
+clubhouse,"sf bay area",consumer,0,0.2669565217391305,2022-06-03,"Series C","united states",110,1
+clue,berlin,healthcare,31,0.31,2023-01-18,Unknown,germany,47,1
+clumio,"sf bay area",data,0,0.19599999999999998,2021-03-01,"Series C","united states",186,1
+clutch,toronto,transportation,76,0.22,2022-06-29,"Series B",canada,153,1
+clutch,toronto,transportation,150,0.2508131868131868,2023-01-17,Unknown,canada,253,1
+clutter,"los angeles",consumer,0,0.3,2020-03-25,"Series D","united states",296,1
+clyde,"new york city",marketing,22,0.20529702970297023,2022-04-25,"Series B","united states",58,1
+cnet,"sf bay area",media,12,0.1,2023-03-02,Acquired,"united states",20,1
+coachhub,berlin,hr,0,0.1,2023-01-24,"Series C",germany,332,1
+coda,"sf bay area",other,0,0.2231764705882353,2023-01-18,"Series D","united states",240,1
+code42,minneapolis,data,25,0.05,2020-04-09,"Series B","united states",138,1
+code42,minneapolis,security,0,0.15,2022-11-07,Unknown,"united states",137,1
+codecombat,"sf bay area",education,8,0.3574074074074075,2020-10-23,"Series A","united states",8,1
+codexis,"sf bay area",healthcare,0,0.18,2022-11-29,Post-IPO,"united states",162,1
+"coding dojo",seattle,education,7,0.07,2020-04-02,Unknown,"united states",2,1
+cogito,boston,support,24,0.14,2020-04-06,"Series C","united states",92,1
+cognyte,"tel aviv",security,100,0.05,2022-12-02,Unknown,israel,0,1
+cohesity,"sf bay area",data,0,0.19599999999999998,2020-04-30,"Series E","united states",660,1
+coinbase,"sf bay area","crypto currency",60,0.2941025641025641,2022-11-10,Post-IPO,"united states",549,1
+coinbase,"sf bay area","crypto currency",950,0.2,2023-01-10,Post-IPO,"united states",549,1
+coinbase,"sf bay area","crypto currency",1100,0.18,2022-06-14,Post-IPO,"united states",549,1
+coindcx,mumbai,"crypto currency",80,0.2941025641025641,2023-01-11,"Series D",india,244,1
+coinflex,victoria,"crypto currency",0,0.2941025641025641,2022-07-29,Unknown,seychelles,11,1
+coinjar,melbourne,"crypto currency",10,0.2,2022-11-29,Unknown,australia,1,1
+coinsquare,toronto,"crypto currency",30,0.24,2022-07-27,Unknown,canada,98,1
+cointracker,"sf bay area","crypto currency",19,0.2941025641025641,2023-01-28,"Series A","united states",101,1
+"collective health","sf bay area",healthcare,54,0.28008064516129033,2023-02-13,"Series F","united states",719,1
+collibra,brussels,data,0,0.19599999999999998,2022-10-19,"Series G",belgium,596,1
+"color health","sf bay area",healthcare,300,0.28008064516129033,2023-03-01,"Series E","united states",482,1
+colossus,boston,energy,97,0.21428571428571425,2022-05-04,"Series A","united states",41,1
+commentsold,huntsville,retail,0,0.27253968253968247,2022-06-29,Unknown,"united states",0,1
+commercehub,albany,retail,371,0.31,2023-02-14,Acquired,"united states",0,1
+commonbond,"new york city",finance,0,1,2022-09-09,"Series D","united states",125,1
+commonbond,"new york city",finance,22,0.24579896907216495,2022-05-13,"Series D","united states",130,1
+community,"los angeles",marketing,40,0.3,2022-06-21,Unknown,"united states",40,1
+compass,"new york city","real estate",0,0.30945945945945946,2023-01-05,Post-IPO,"united states",1600,1
+compass,"new york city","real estate",271,0.30945945945945946,2022-09-20,Post-IPO,"united states",1600,1
+compass,"new york city","real estate",375,0.15,2020-03-23,"Series G","united states",1600,1
+compass,"new york city","real estate",450,0.1,2022-06-14,Post-IPO,"united states",1600,1
+compete,"tel aviv",hr,11,0.28,2022-09-12,"Series A",israel,17,1
+confluent,"sf bay area",data,221,0.08,2023-01-26,Post-IPO,"united states",455,1
+conga,denver,data,0,0.11,2020-06-15,Acquired,"united states",117,1
+connected,toronto,product,17,0.1,2020-04-08,Unknown,canada,0,1
+consensys,"new york city","crypto currency",91,0.14,2020-04-20,Unknown,"united states",10,1
+consensys,"new york city","crypto currency",100,0.11,2023-01-10,"Series D","united states",726,1
+consider.co,"sf bay area",other,13,1,2020-03-26,Seed,"united states",5,1
+contaazul,joinville,education,140,0.35,2020-04-17,"Series D",brazil,37,1
+contrafect,"new york city",healthcare,16,0.37,2022-08-15,Post-IPO,"united states",380,1
+convene,"new york city","real estate",0,0.30945945945945946,2022-12-10,Unknown,"united states",281,1
+convene,"new york city","real estate",150,0.18,2020-03-23,"Series D","united states",280,1
+convoy,atlanta,logistics,0,0.18275862068965518,2023-02-16,"Series E","united states",1100,1
+convoy,seattle,logistics,0,0.18275862068965518,2022-10-25,"Series E","united states",1100,1
+convoy,seattle,logistics,90,0.07,2022-06-09,"Series E","united states",1100,1
+copper,"sf bay area",marketing,35,0.20529702970297023,2020-04-02,"Series C","united states",102,1
+"core scientific",austin,"crypto currency",0,0.1,2022-08-12,Post-IPO,"united states",169,1
+"corvus insurance",boston,finance,0,0.14,2023-01-24,"Series C","united states",160,1
+coschedule,bismarck,marketing,0,0.20529702970297023,2023-01-13,Unknown,"united states",2,1
+cosuno,berlin,construction,0,0.28400000000000003,2022-07-14,"Series B",germany,45,1
+"coterie insurance",cincinnati,finance,30,0.2,2022-05-25,"Series B","united states",70,1
+coursera,"sf bay area",education,0,0.3574074074074075,2022-11-09,Post-IPO,"united states",458,1
+crayon,boston,marketing,20,0.2,2020-04-01,"Series A","united states",16,1
+createme,"sf bay area",manufacturing,0,0.05,2023-01-06,Unknown,"united states",0,1
+"credit sesame","sf bay area",finance,22,0.14,2020-06-03,"Series F","united states",120,1
+creditas,"sao paulo",finance,0,0.06,2020-04-08,"Series D",brazil,314,1
+crehana,lima,education,0,0.3574074074074075,2022-06-15,"Series B",peru,93,1
+crejo.fun,bengaluru,education,170,1,2022-06-30,Seed,india,3,1
+criteo,paris,marketing,0,0.20529702970297023,2023-02-21,Post-IPO,france,61,1
+crowdriff,toronto,marketing,0,0.20529702970297023,2020-04-16,"Series A",canada,11,1
+crowdstreet,portland,"real estate",24,0.22,2020-06-01,"Series C","united states",24,1
+cruise,"sf bay area",transportation,150,0.08,2020-05-14,Acquired,"united states",5300,1
+crunchyroll,tokyo,media,85,0.23245901639344263,2023-02-21,Unknown,japan,26,1
+crypto.com,singapore,"crypto currency",0,0.2,2023-01-12,Unknown,"united states",0,1
+crypto.com,singapore,"crypto currency",0,0.2941025641025641,2022-08-16,Unknown,singapore,156,1
+crypto.com,singapore,"crypto currency",260,0.05,2022-06-10,Unknown,singapore,156,1
+crypto.com,singapore,"crypto currency",2000,0.3,2022-10-06,Unknown,singapore,156,1
+"cs disco",austin,legal,62,0.09,2023-01-19,Post-IPO,"united states",233,1
+cto.ai,vancouver,infrastructure,30,0.5,2020-03-20,Seed,canada,7,1
+cue,"san diego",healthcare,170,0.28008064516129033,2022-06-27,Post-IPO,"united states",999,1
+cue,"san diego",healthcare,388,0.28008064516129033,2023-01-05,Post-IPO,"united states",999,1
+"culture amp",melbourne,hr,36,0.08,2020-05-28,"Series E",australia,157,1
+"culture trip",london,media,95,0.32,2020-05-01,"Series B","united kingdom",102,1
+curative,"los angeles",healthcare,109,0.28008064516129033,2022-09-20,Seed,"united states",8,1
+curefit,bengaluru,fitness,120,0.30571428571428577,2020-07-17,"Series D",india,405,1
+curefit,bengaluru,fitness,800,0.16,2020-05-04,"Series D",india,404,1
+curology,"sf bay area",healthcare,150,0.28008064516129033,2022-03-16,"Series D","united states",19,1
+currency,"los angeles",finance,0,0.24579896907216495,2020-04-01,Unknown,"united states",0,1
+curve,london,finance,65,0.1,2022-06-01,"Series C","united kingdom",182,1
+cuyana,"sf bay area",retail,0,0.27253968253968247,2020-03-30,"Series C","united states",31,1
+cvent,"washington d.c.",marketing,400,0.1,2020-05-21,Acquired,"united states",146,1
+cybercube,"sf bay area",finance,0,0.24579896907216495,2022-06-07,"Series B","united states",35,1
+cybereason,boston,security,100,0.06,2022-06-01,"Series F","united states",750,1
+cybereason,boston,security,200,0.17,2022-10-26,"Series F","united states",750,1
+cycognito,"sf bay area",security,30,0.15,2022-12-08,"Series C","united states",153,1
+cypress.io,atlanta,product,0,0.2448275862068965,2023-01-18,"Series B","united states",54,1
+cyren,"washington d.c.",security,121,0.15754716981132072,2023-02-01,Post-IPO,"united states",161,1
+"cyteir therapeutics",boston,healthcare,0,0.7,2023-01-20,"Series C","united states",156,1
+d2iq,"sf bay area",infrastructure,34,0.13,2020-04-03,"Series D","united states",247,1
+d2l,waterloo,education,0,0.05,2022-11-16,Post-IPO,canada,168,1
+"daily harvest","new york city",food,0,0.15,2022-08-08,"Series D","united states",120,1
+"daily harvest","new york city",food,60,0.2,2022-02-10,"Series D","united states",120,1
+dailypay,"new york city",finance,0,0.15,2022-08-09,Unknown,"united states",814,1
+daloopa,"new delhi",data,40,0.19599999999999998,2022-05-27,"Series A",india,23,1
+dance,berlin,transportation,0,0.16,2022-11-16,Unknown,germany,63,1
+"daniel wellington",stockholm,retail,200,0.15,2022-06-09,Unknown,sweden,0,1
+"dapper labs",vancouver,"crypto currency",0,0.2,2023-02-23,"Series D","united states",607,1
+"dapper labs",vancouver,"crypto currency",134,0.22,2022-11-02,"Series D","united states",607,1
+daraz,singapore,retail,0,0.11,2023-02-06,Unknown,singapore,0,1
+dark,"sf bay area",product,6,1,2020-06-23,Seed,"united states",3,1
+datarails,"tel aviv",finance,30,0.18,2022-12-05,"Series B",israel,103,1
+datarobot,boston,data,0,0.26,2022-08-23,"Series G","united states",1000,1
+datarobot,boston,data,70,0.07,2022-05-11,"Series G","united states",1000,1
+datarobot,boston,data,200,0.19599999999999998,2020-03-27,"Series E","united states",430,1
+datastax,"sf bay area",data,15,0.19599999999999998,2020-04-14,"Series E","united states",190,1
+datera,"sf bay area",infrastructure,0,0.1,2020-05-18,"Series C","united states",63,1
+datto,norwalk,infrastructure,0,0.28800000000000003,2020-05-12,Acquired,"united states",100,1
+daytwo,"sf bay area",healthcare,0,0.28008064516129033,2022-09-15,"Series B","united states",90,1
+dazn,london,consumer,50,0.02,2022-05-26,Unknown,"united kingdom",0,1
+dealshare,bengaluru,retail,100,0.06,2023-01-27,"Series E",india,390,1
+decent,"sf bay area",healthcare,0,0.28008064516129033,2023-01-27,"Series A","united states",18,1
+"deep instinct","new york city",security,0,0.1,2022-06-06,"Series D","united states",259,1
+defined.ai,seattle,data,0,0.19599999999999998,2022-02-07,"Series B","united states",78,1
+"definitive healthcare",boston,healthcare,55,0.06,2023-01-12,Post-IPO,"united states",0,1
+degreed,"sf bay area",education,0,0.15,2022-06-29,"Series D","united states",411,1
+dehaat,gurugram,food,0,0.3240361445783133,2022-08-01,"Series D",india,194,1
+dehaat,patna,food,0,0.05,2023-01-15,"Series E",india,254,1
+deliv,"sf bay area",retail,669,1,2020-05-13,"Series C","united states",80,1
+deliveroo,london,food,350,0.09,2023-02-09,Post-IPO,"united kingdom",1700,1
+deliveroo,london,food,367,0.15,2020-04-28,"Series G","united kingdom",1500,1
+"deliveroo australia",melbourne,food,120,1,2022-11-15,Post-IPO,australia,1700,1
+"delivery hero",berlin,food,100,0.3240361445783133,2022-11-03,Post-IPO,germany,8300,1
+"delivery hero",berlin,food,156,0.04,2023-01-30,Post-IPO,germany,9900,1
+"delivery hero",berlin,food,300,0.3240361445783133,2021-12-22,Post-IPO,germany,8300,1
+dell,austin,hardware,6650,0.05,2023-02-06,Post-IPO,"united states",0,1
+demandbase,"sf bay area",sales,27,0.03,2022-09-07,"Series H","united states",143,1
+deputy,sydney,hr,60,0.3,2020-05-04,"Series B",australia,106,1
+"descartes labs","santa fe",data,12,0.16,2020-06-02,"Series B","united states",58,1
+"desktop metal",boston,other,0,0.2231764705882353,2020-04-28,"Series E","united states",436,1
+devo,boston,security,0,0.15,2022-11-21,"Series F","united states",481,1
+dialsource,sacramento,marketing,5,0.14,2020-03-31,"Series B","united states",26,1
+digimarc,portland,other,0,0.2231764705882353,2023-02-17,Post-IPO,"united states",105,1
+"digital currency gruop",stamford,"crypto currency",10,0.13,2022-11-02,Unknown,"united states",0,1
+"digital surge",brisbane,"crypto currency",0,1,2022-12-09,Unknown,australia,0,1
+digitalocean,"new york city",infrastructure,200,0.11,2023-02-15,Post-IPO,"united states",491,1
+disco,austin,legal,75,0.2333333333333334,2020-03-27,"Series E","united states",133,1
+dispatch,boston,other,0,0.38,2020-04-17,"Series A","united states",18,1
+"divergent 3d","los angeles",transportation,57,0.36,2020-04-24,"Series B","united states",88,1
+divvy,"salt lake city",finance,0,0.24579896907216495,2020-05-19,"Series C","united states",252,1
+"divvy homes","sf bay area","real estate",0,0.08,2020-03-25,"Series B","united states",180,1
+"divvy homes","sf bay area","real estate",40,0.12,2022-09-27,"Series B","united states",180,1
+divvydose,davenport,healthcare,62,0.28008064516129033,2022-05-06,Acquired,"united states",0,1
+dji,"sf bay area",consumer,0,0.2669565217391305,2021-02-24,Unknown,"united states",105,1
+dji,shenzen,consumer,0,0.2669565217391305,2020-08-17,Unknown,china,105,1
+dock,"sao paulo",finance,190,0.12,2022-11-07,"Private Equity",brazil,280,1
+docly,london,healthcare,8,0.8,2020-08-19,Seed,"united kingdom",16,1
+docusign,"sf bay area",sales,671,0.09,2022-09-28,Post-IPO,"united states",536,1
+docusign,"sf bay area",sales,680,0.1,2023-02-16,Post-IPO,"united states",536,1
+doma,"sf bay area",finance,250,0.13,2022-08-04,Post-IPO,"united states",679,1
+doma,"sf bay area",finance,310,0.15,2022-05-10,Post-IPO,"united states",679,1
+doma,"sf bay area",finance,515,0.4,2022-12-06,Post-IPO,"united states",679,1
+domestika,"sf bay area",education,150,0.19,2022-04-28,"Series D","united states",130,1
+"domino data lab","sf bay area",data,0,0.25,2022-11-07,"Series F","united states",223,1
+domio,"new york city","real estate",0,0.5,2020-11-18,"Series B","united states",116,1
+domio,"new york city",travel,0,0.3,2020-03-31,"Series B","united states",116,1
+domo,"salt lake city",data,90,0.1,2020-04-09,Post-IPO,"united states",689,1
+dooly,vancouver,sales,12,0.11476190476190477,2022-08-09,"Series B",canada,102,1
+doordash,"sf bay area",food,1250,0.06,2022-11-30,Post-IPO,"united states",2500,1
+dotscience,london,product,10,1,2020-05-19,Unknown,"united kingdom",0,1
+dover,"sf bay area",recruiting,23,0.3,2022-07-26,"Series A","united states",22,1
+draftkings,boston,consumer,140,0.04,2023-02-01,Post-IPO,"united states",719,1
+"dreambox learning",seattle,education,0,0.3574074074074075,2022-09-09,Acquired,"united states",175,1
+drift,boston,marketing,59,0.20529702970297023,2023-02-06,Acquired,"united states",107,1
+drip,"salt lake city",marketing,20,0.20529702970297023,2020-03-23,Acquired,"united states",0,1
+drivewealth,"jersey city",finance,0,0.2,2023-01-26,"Series D","united states",550,1
+drop,toronto,marketing,24,0.20529702970297023,2022-11-01,"Series B",canada,56,1
+dropbox,"sf bay area",other,315,0.15,2021-01-13,Post-IPO,"united states",1700,1
+dsco,"salt lake city",retail,12,0.27253968253968247,2020-04-03,"Series A","united states",4,1
+"dude solutions",raleigh,other,0,0.2,2020-04-15,Acquired,"united states",100,1
+dukaan,bengaluru,retail,23,0.27253968253968247,2022-10-31,"Series A",india,17,1
+dunzo,bengaluru,food,0,0.03,2023-01-16,Unknown,india,382,1
+dutchie,bend,other,50,0.07,2022-06-06,"Series D","united states",603,1
+"dux education",bengaluru,education,0,1,2023-02-28,Unknown,india,0,1
+"dynamic signal","sf bay area",hr,35,0.19,2020-04-02,"Series E","united states",114,1
+"e inc.",toronto,transportation,0,0.2508131868131868,2022-12-16,Post-IPO,canada,0,1
+earnin,"sf bay area",finance,50,0.2,2020-04-01,"Series C","united states",190,1
+"earth rides",nashville,transportation,0,1,2023-01-19,Unknown,"united states",2,1
+easypost,"salt lake city",logistics,75,0.18275862068965518,2020-03-11,"Series A","united states",12,1
+easypost,"sf bay area",logistics,50,0.25,2020-04-13,"Series A","united states",12,1
+"eat just","sf bay area",food,40,0.3240361445783133,2023-02-24,Unknown,"united states",465,1
+eatsy,singapore,food,20,1,2020-08-08,Seed,singapore,1,1
+eaze,"sf bay area",consumer,25,0.2669565217391305,2022-06-01,"Series D","united states",202,1
+ebanx,curitiba,finance,62,0.08,2020-05-27,Unknown,brazil,30,1
+ebanx,curitiba,finance,340,0.2,2022-06-21,"Series B",brazil,460,1
+ebay,"sf bay area",retail,500,0.04,2023-02-07,Post-IPO,"united states",1200,1
+ecobee,toronto,energy,47,0.1,2020-03-26,"Series C",canada,149,1
+"eden / managed by q","new york city","real estate",40,0.4,2020-04-08,"Series B","united states",40,1
+edgio,phoenix,infrastructure,95,0.1,2022-12-13,Post-IPO,"united states",462,1
+edifecs,seattle,healthcare,30,0.28008064516129033,2023-01-20,Unknown,"united states",1,1
+"editas medicine",boston,healthcare,0,0.2,2023-01-09,Post-IPO,"united states",656,1
+edmodo,"sf bay area",education,0,1,2022-08-16,Acquired,"united states",77,1
+egym,munich,fitness,100,0.25,2020-04-02,"Series D",germany,109,1
+"eight sleep","new york city",retail,0,0.2,2020-03-23,"Series C","united states",70,1
+ejento,"sf bay area",recruiting,84,1,2020-03-19,Unknown,"united states",0,1
+elastic,"sf bay area",data,0,0.13,2022-11-30,Post-IPO,"united states",162,1
+electric,"new york city",other,81,0.2231764705882353,2022-08-30,"Series D","united states",212,1
+electric,"new york city",other,141,0.25,2023-02-13,"Series D","united states",212,1
+"electronic arts","baton rouge",consumer,200,0.2669565217391305,2023-02-28,Post-IPO,"united states",2,1
+element,london,other,0,0.15,2022-12-25,"Series B","united kingdom",96,1
+"element ai",montreal,other,62,0.15,2020-05-04,"Series B",canada,257,1
+"element analytics","sf bay area",data,10,0.19599999999999998,2020-03-25,"Series A","united states",22,1
+elementor,"tel aviv",media,60,0.15,2022-06-15,Unknown,israel,65,1
+elemy,"sf bay area",healthcare,0,0.28008064516129033,2022-12-05,"Series B","united states",323,1
+elinvar,berlin,finance,43,0.33,2022-10-21,Unknown,germany,30,1
+elliptic,london,"crypto currency",0,0.3,2020-04-09,"Series B","united kingdom",40,1
+embark,boston,healthcare,41,0.28008064516129033,2023-01-11,"Series B","united states",94,1
+"embark trucks","sf bay area",transportation,230,0.7,2023-03-03,Post-IPO,"united states",317,1
+embroker,"sf bay area",finance,30,0.12,2022-10-25,"Series C","united states",142,1
+emitwise,london,energy,0,0.21428571428571425,2022-10-11,"Series A","united kingdom",16,1
+emotive,"los angeles",marketing,30,0.18,2022-07-07,"Series B","united states",78,1
+"emx digital","new york city",marketing,100,1,2023-02-13,Unknown,"united states",0,1
+"engine ecommerce",fayetteville,retail,0,1,2020-06-28,Unknown,"united states",4,1
+enjoei,"sao paulo",retail,31,0.1,2023-01-20,Unknown,brazil,14,1
+enjoy,"sf bay area",retail,400,0.18,2022-06-30,Post-IPO,"united states",310,1
+envato,melbourne,marketing,100,0.20529702970297023,2022-06-02,Unknown,australia,0,1
+envoy,"sf bay area",hr,58,0.3,2020-04-14,"Series B","united states",59,1
+equitybee,"sf bay area",finance,24,0.25,2023-02-08,"Series B","united states",85,1
+equitybee,"sf bay area",finance,25,0.2,2022-10-31,"Series B","united states",85,1
+equityzen,"new york city",finance,30,0.27,2022-10-31,"Series B","united states",11,1
+ericsson,stockholm,other,8500,0.08,2023-02-24,Post-IPO,sweden,663,1
+ermetic,"sf bay area",security,30,0.17,2023-01-23,"Series B","united states",97,1
+eruditus,mumbai,education,40,0.3574074074074075,2022-06-04,"Series E",india,1200,1
+"esme learning",boston,education,0,0.3574074074074075,2022-06-02,Unknown,"united states",37,1
+esper,seattle,other,0,0.12,2022-06-23,"Series A","united states",10,1
+etermax,"buenos aires",other,40,0.2231764705882353,2022-11-30,Unknown,argentina,0,1
+"ethos life","sf bay area",finance,18,0.14,2020-06-05,"Series C","united states",106,1
+"ethos life","sf bay area",finance,40,0.12,2022-06-24,"Series D","united states",406,1
+"ethos life","sf bay area",finance,50,0.24579896907216495,2023-02-21,"Series D","united states",406,1
+etoro,"tel aviv",finance,100,0.06,2022-07-05,Unknown,israel,322,1
+eucalyptus,sydney,healthcare,50,0.2,2022-07-22,"Series C","united states",69,1
+eventbrite,"sf bay area",consumer,80,0.08,2023-02-28,Post-IPO,"united states",557,1
+eventbrite,"sf bay area",consumer,500,0.45,2020-04-08,Post-IPO,"united states",332,1
+everbridge,boston,other,200,0.2231764705882353,2022-11-08,Post-IPO,"united states",476,1
+everlane,"sf bay area",retail,30,0.17,2023-01-05,Unknown,"united states",176,1
+everlane,"sf bay area",retail,227,0.27253968253968247,2020-03-27,Unknown,"united states",18,1
+evernote,"sf bay area",consumer,129,0.2669565217391305,2023-02-17,Acquired,"united states",290,1
+evgo,"los angeles",transportation,40,0.2508131868131868,2023-02-23,Post-IPO,"united states",400,1
+exodus,"nebraska city","crypto currency",59,0.22,2022-11-04,Unknown,"united states",60,1
+exotel,bengaluru,support,142,0.15,2023-01-17,"Series D",india,87,1
+expert360,sydney,recruiting,7,0.3233333333333333,2022-08-11,"Series C",australia,26,1
+exterro,portland,legal,24,0.03,2023-02-01,"Private Equity","united states",100,1
+extrahop,seattle,security,0,0.15754716981132072,2022-10-13,"Series C","united states",61,1
+ezcater,boston,food,400,0.44,2020-04-07,"Series D","united states",319,1
+f5,seattle,security,100,0.01,2022-10-21,Post-IPO,"united states",0,1
+fabhotels,"new delhi",travel,80,0.2,2020-03-30,"Series B",india,48,1
+fabric,"new york city",logistics,120,0.4,2022-07-13,"Series C","united states",336,1
+facily,"sao paulo",retail,260,0.3,2022-04-20,"Series D",brazil,502,1
+faire,"sf bay area",retail,84,0.07,2022-10-18,"Series G","united states",1700,1
+fandom,"sf bay area",media,0,0.23245901639344263,2023-01-19,"Series E","united states",145,1
+fareportal,gurugram,travel,200,0.3180952380952381,2020-03-26,Unknown,india,0,1
+fareye,"new delhi",logistics,90,0.18275862068965518,2023-02-03,"Series E",india,150,1
+fareye,"new delhi",logistics,250,0.3,2022-06-10,"Series E",india,150,1
+fast,"sf bay area",finance,0,1,2022-04-05,"Series B","united states",124,1
+"fate therapeutics","san diego",healthcare,315,0.57,2023-01-09,Post-IPO,"united states",1200,1
+favo,"sao paulo",food,170,0.3240361445783133,2022-06-02,"Series A",brazil,31,1
+"faze medicines",boston,healthcare,0,1,2022-11-09,"Series B","united states",81,1
+feather,"new york city",retail,0,0.27253968253968247,2022-06-24,Unknown,"united states",76,1
+feedzai,coimbra,finance,0,0.24579896907216495,2023-01-27,Unknown,portugal,273,1
+"fifth season",pittsburgh,food,100,1,2022-10-28,"Series B","united states",35,1
+filevine,"salt lake city",legal,0,0.2333333333333334,2022-12-06,"Series D","united states",226,1
+finastra,"tel aviv",finance,0,0.24579896907216495,2023-01-25,Unknown,israel,0,1
+finder,sydney,retail,0,0.15,2023-02-03,Unknown,australia,30,1
+"finite state",columbus,security,16,0.2,2022-06-17,"Series B","united states",49,1
+"finleap connect",hamburg,finance,14,0.1,2022-06-30,"Series A",germany,22,1
+fipola,chennai,food,0,1,2023-02-20,"Series A","united states",9,1
+fireblocks,"new york city","crypto currency",30,0.05,2023-02-20,"Series E","united states",1000,1
+firebolt,"tel aviv",data,0,0.19599999999999998,2022-09-07,"Series C",israel,264,1
+firehydrant,"new york city",infrastructure,0,0.28800000000000003,2022-12-08,"Series B","united states",32,1
+firework,"sf bay area",retail,0,0.1,2022-11-29,"Series B","united states",269,1
+"first aml",auckland,finance,0,0.24579896907216495,2022-10-06,"Series B","new zealand",29,1
+fiscalnote,"washington d.c.",media,30,0.23245901639344263,2020-04-02,"Series D","united states",50,1
+fishbrain,stockholm,consumer,0,0.2669565217391305,2023-01-17,Unknown,"united states",59,1
+fittr,pune,fitness,30,0.11,2023-03-02,"Series A",india,13,1
+fiverr,"tel aviv",other,60,0.08,2022-07-26,Post-IPO,israel,111,1
+fivetran,"sf bay area",data,0,0.05,2022-10-04,"Series D","united states",0,1
+"flash coffee",singapore,food,0,0.3240361445783133,2022-11-22,"Series B",singapore,57,1
+"flatiron school","new york city",education,100,0.3574074074074075,2020-05-06,Acquired,"united states",15,1
+flexport,"sf bay area",logistics,640,0.2,2023-01-11,"Series E","united states",2400,1
+flipboard,"sf bay area",media,24,0.21,2022-10-16,Unknown,"united states",235,1
+flipkart,bengaluru,retail,0,0.27253968253968247,2023-03-02,Acquired,india,12900,1
+flockjay,"sf bay area",education,37,0.5,2021-08-24,"Series A","united states",14,1
+floqast,"los angeles",finance,0,0.24579896907216495,2020-04-10,"Series C","united states",119,1
+flowhub,denver,retail,0,0.15,2022-09-09,Unknown,"united states",45,1
+flowr,toronto,retail,0,0.25,2020-03-24,Unknown,canada,0,1
+fluke,"sao paulo",other,83,0.82,2022-08-17,Seed,brazil,0,1
+"flux systems",london,finance,0,1,2022-10-14,Unknown,"united kingdom",9,1
+flyhomes,seattle,"real estate",200,0.2,2022-07-20,"Series C","united states",310,1
+flyhomes,seattle,"real estate",300,0.4,2022-11-09,"Series C","united states",310,1
+flymya,yangon,travel,200,0.33,2020-04-01,Unknown,myanmar,0,1
+flynote,bengaluru,travel,0,0.3180952380952381,2020-05-01,Seed,india,1,1
+flytedesk,boulder,marketing,4,0.2,2020-03-18,Seed,"united states",4,1
+"flywheel sports","new york city",fitness,784,0.98,2020-03-20,Acquired,"united states",120,1
+flywire,boston,finance,60,0.12,2020-05-07,"Series E","united states",263,1
+food52,"new york city",food,0,0.3240361445783133,2020-04-17,Acquired,"united states",96,1
+food52,"new york city",food,20,0.1,2022-04-08,Acquired,"united states",176,1
+food52,"new york city",food,21,0.15,2022-06-03,Acquired,"united states",176,1
+foodpanda,bucharest,food,80,0.3240361445783133,2022-05-26,Acquired,romania,749,1
+foodpanda,singapore,food,0,0.3240361445783133,2023-02-13,Acquired,singapore,749,1
+foodpanda,singapore,food,60,0.3240361445783133,2022-09-07,Acquired,singapore,749,1
+foodsby,minneapolis,food,87,0.67,2020-03-24,"Series B","united states",20,1
+forescout,"sf bay area",security,100,0.1,2023-01-10,Post-IPO,"united states",125,1
+"foresight insurance","sf bay area",finance,0,0.4,2022-10-06,"Series B","united states",58,1
+forma.ai,toronto,sales,15,0.09,2022-07-20,"Series B",canada,58,1
+forto,berlin,logistics,60,0.08,2022-11-11,"Series D","united states",593,1
+forward,"sf bay area",healthcare,0,0.05,2022-07-11,"Series D","united states",225,1
+forward,"sf bay area",healthcare,10,0.03,2020-04-20,"Series C","united states",100,1
+fourkites,chicago,logistics,60,0.08,2022-08-11,"Series D","united states",201,1
+foxtrot,chicago,food,26,0.035,2022-09-23,"Series C","united states",166,1
+fraazo,mumbai,food,150,0.3240361445783133,2022-07-12,"Series B",india,63,1
+freetrade,london,finance,45,0.15,2022-06-10,Unknown,"united kingdom",133,1
+"frequency therapeutics",boston,healthcare,0,0.5,2023-02-01,Post-IPO,"united states",76,1
+freshbooks,toronto,finance,38,0.09,2020-04-21,"Series B",canada,75,1
+freshdirect,philadelphia,food,40,0.3240361445783133,2022-08-25,Acquired,"united states",280,1
+freshly,"new york city",food,0,0.25,2022-07-18,Acquired,"united states",107,1
+freshly,phoenix,food,329,0.3240361445783133,2022-12-12,Acquired,"united states",107,1
+freshworks,"sf bay area",support,90,0.02,2022-12-15,Post-IPO,"united states",484,1
+front,"sf bay area",support,0,0.19624999999999995,2022-09-28,"Series D","united states",203,1
+frontdesk,milwaukee,travel,35,0.16,2020-04-10,Unknown,"united states",3,1
+frontrow,bengaluru,education,130,0.75,2022-10-12,"Series A",india,17,1
+frontrow,bengaluru,education,145,0.3,2022-05-27,"Series A",india,17,1
+frubana,bogota,food,0,0.03,2022-06-21,"Series C",colombia,202,1
+fubotv,"new york city",media,0,0.23245901639344263,2022-08-02,Post-IPO,"united states",151,1
+fullstory,atlanta,marketing,0,0.12,2022-09-13,Unknown,"united states",197,1
+fundbox,"sf bay area",finance,14,0.15,2020-06-02,"Series C","united states",453,1
+fundbox,"sf bay area",finance,150,0.42,2022-10-25,"Series D","united states",553,1
+"funding circle","sf bay area",finance,85,0.24579896907216495,2020-07-08,Post-IPO,"united states",746,1
+"funding societies",singapore,finance,65,0.18,2020-04-16,"Series B",singapore,42,1
+fungible,"sf bay area","crypto currency",0,0.2941025641025641,2022-08-29,"Series C","united states",310,1
+furlenco,bengaluru,retail,180,0.27253968253968247,2022-03-26,"Series D",india,228,1
+futurelearn,london,education,0,0.3574074074074075,2022-11-28,Unknown,"united kingdom",50,1
+"g/o media group","new york city",media,14,0.05,2020-04-03,Unknown,"united states",0,1
+g2,chicago,marketing,17,0.05,2020-06-30,"Series C","united states",101,1
+gather,"sf bay area",consumer,30,0.33,2022-06-02,"Series B","united states",76,1
+gatherly,atlanta,marketing,0,0.5,2022-07-31,"Series C","united states",0,1
+gavelytics,"los angeles",legal,0,1,2022-06-30,Seed,"united states",5,1
+geekwire,seattle,media,5,0.31,2020-04-10,Unknown,"united states",0,1
+gem,"sf bay area",recruiting,100,0.33,2022-11-01,"Series C","united states",148,1
+gemini,"new york city","crypto currency",0,0.1,2023-01-23,Unknown,"united states",423,1
+gemini,"new york city","crypto currency",100,0.1,2022-06-02,Unknown,"united states",423,1
+gemini,"new york city","crypto currency",68,0.07,2022-07-18,Unknown,"united states",423,1
+genesis,"new york city","crypto currency",52,0.2,2022-08-17,"Series A","united states",0,1
+genesis,"new york city","crypto currency",60,0.3,2023-01-05,"Series A","united states",0,1
+genius,"new york city",consumer,0,0.2669565217391305,2021-09-15,Acquired,"united states",78,1
+"genome medical","sf bay area",healthcare,23,0.28008064516129033,2022-09-08,"Series C","united states",120,1
+getaround,"sf bay area",transportation,0,0.1,2023-02-02,Post-IPO,"united states",948,1
+getaround,"sf bay area",transportation,100,0.25,2020-03-27,"Series D","united states",403,1
+getir,istanbul,food,0,0.14,2022-05-25,"Series E",turkey,1800,1
+getir,london,food,0,0.3240361445783133,2023-02-13,"Series E","united kingdom",1800,1
+getir,"new york city",food,100,0.3240361445783133,2023-02-02,"Series E","united states",1800,1
+getninjas,"sao paulo",consumer,11,0.1,2020-04-08,"Series B",brazil,16,1
+getta,"tel aviv",transportation,30,0.2508131868131868,2022-05-31,"Series A",israel,49,1
+getyourguide,berlin,travel,90,0.17,2020-10-14,"Series E",germany,656,1
+github,"sf bay area",product,0,0.1,2023-02-09,Acquired,"united states",350,1
+gitlab,"sf bay area",product,130,0.07,2023-02-09,Post-IPO,"united states",413,1
+gitpod,kiel,product,21,0.28,2023-01-24,"Series A",germany,41,1
+"give legacy",boston,healthcare,0,0.28008064516129033,2022-06-24,"Series B","united states",45,1
+glassdoor,"sf bay area",recruiting,300,0.3,2020-05-07,Acquired,"united states",204,1
+glints,singapore,hr,198,0.18,2022-12-08,"Series D",singapore,82,1
+glitch,"new york city",product,18,0.36,2020-05-21,"Series A","united states",30,1
+glorifi,dallas,finance,0,1,2022-11-21,Unknown,"united states",0,1
+glossier,"new york city",consumer,80,0.33,2022-01-26,"Series E","united states",266,1
+glossier,"new york city",retail,19,0.08,2022-08-02,"Series E","united states",266,1
+glossier,"new york city",retail,150,0.38,2020-08-07,"Series D","united states",186,1
+glovo,barcelona,food,250,0.06,2023-01-30,Acquired,spain,1200,1
+"goat group","los angeles",retail,0,0.27253968253968247,2020-04-01,"Series D","united states",197,1
+gobear,singapore,finance,22,0.11,2020-09-01,Unknown,singapore,97,1
+gobolt,toronto,logistics,55,0.05,2023-01-10,"Series C",canada,178,1
+gocanvas,"washington d.c.",other,0,0.2231764705882353,2023-01-13,Acquired,"united states",21,1
+gocardless,london,finance,0,0.24579896907216495,2020-04-24,"Series E","united kingdom",122,1
+godaddy,austin,marketing,451,0.06,2020-06-24,Post-IPO,"united states",0,1
+godaddy,phoenix,marketing,530,0.08,2023-02-08,Post-IPO,"united states",800,1
+gofundme,"sf bay area",finance,94,0.12,2022-10-26,"Series A","united states",0,1
+gohealth,chicago,healthcare,800,0.2,2022-08-09,Post-IPO,"united states",75,1
+gojek,jakarta,transportation,430,0.09,2020-06-23,"Series F",indonesia,4800,1
+gokada,lagos,transportation,20,0.2508131868131868,2022-11-14,Unknown,nigeria,12,1
+gokada,lagos,transportation,54,0.2508131868131868,2023-01-31,Unknown,nigeria,12,1
+gomechanic,gurugram,transportation,0,0.7,2023-01-17,"Series C",india,54,1
+gong,"sf bay area",sales,80,0.07,2023-02-08,"Series E","united states",583,1
+gonuts,mumbai,media,0,1,2022-10-27,Seed,india,0,1
+goodfood,calgary,food,70,0.3240361445783133,2022-04-07,Post-IPO,canada,16,1
+goodgood,toronto,retail,0,1,2022-11-23,Seed,canada,6,1
+goodrx,"los angeles",healthcare,140,0.16,2022-08-31,Post-IPO,"united states",910,1
+google,"sf bay area",consumer,12000,0.06,2023-01-20,Post-IPO,"united states",26,1
+gopro,"sf bay area",consumer,200,0.2,2020-04-15,Post-IPO,"united states",288,1
+gopuff,philadelphia,food,100,0.3240361445783133,2022-01-26,"Series H","united states",3400,1
+gopuff,philadelphia,food,250,0.3240361445783133,2022-10-19,"Series H","united states",3400,1
+gopuff,philadelphia,food,450,0.03,2022-03-29,"Series H","united states",3400,1
+gopuff,philadelphia,food,1500,0.1,2022-07-12,"Series H","united states",3400,1
+gorillas,berlin,food,300,0.5,2022-05-24,"Series C",germany,1300,1
+gorillas,berlin,food,540,0.3240361445783133,2022-07-03,"Series C",germany,1300,1
+gospotcheck,denver,retail,23,0.2,2020-03-26,"Series B","united states",47,1
+gostudent,vienna,education,100,0.3574074074074075,2022-12-14,"Series D",austria,686,1
+gostudent,vienna,education,200,0.3574074074074075,2022-09-08,"Series D",austria,686,1
+"goto group",jakarta,transportation,1300,0.12,2022-11-10,Post-IPO,indonesia,1300,1
+grab,singapore,transportation,360,0.05,2020-06-16,"Series I",singapore,9900,1
+grailed,"new york city",retail,0,0.27253968253968247,2020-04-16,"Series A","united states",16,1
+gramophone,indore,food,75,0.3240361445783133,2023-01-16,"Series B",india,17,1
+graphcore,bristol,data,0,0.19599999999999998,2022-09-27,Unknown,"united kingdom",692,1
+graymeta,"los angeles",data,20,0.4,2020-03-23,Unknown,"united states",7,1
+"green labs",seoul,food,0,0.3240361445783133,2023-02-21,"Series C","south korea",214,1
+"greenhouse software","new york city",recruiting,120,0.28,2020-04-17,"Series D","united states",110,1
+greenlight,atlanta,finance,104,0.21,2023-01-12,"Series D","united states",556,1
+grin,sacramento,marketing,60,0.13,2022-11-30,"Series B","united states",145,1
+"group nine media","new york city",media,50,0.07,2020-04-07,Unknown,"united states",190,1
+groupon,chicago,retail,500,0.27253968253968247,2023-01-30,Post-IPO,"united states",1400,1
+groupon,chicago,retail,2800,0.44,2020-04-13,Post-IPO,"united states",1400,1
+"grove collaborative","sf bay area",retail,0,0.17,2022-03-19,"Series E","united states",474,1
+grover,berlin,retail,40,0.1,2022-12-07,Unknown,"united states",2300,1
+gsr,"hong kong","crypto currency",0,0.25,2022-10-11,Unknown,"hong kong",0,1
+"guardant health","sf bay area",healthcare,130,0.07,2023-01-25,Post-IPO,"united states",550,1
+guidewire,"sf bay area",finance,0,0.02,2022-08-11,Post-IPO,"united states",24,1
+gumgum,"los angeles",marketing,90,0.25,2020-04-20,"Series D","united states",58,1
+gusto,"sf bay area",hr,126,0.05,2023-02-08,"Series E","united states",746,1
+gympass,"sao paulo",fitness,467,0.33,2020-04-03,"Series D",brazil,300,1
+hackerearth,"sf bay area",hr,0,0.08,2023-02-14,"Series B","united states",11,1
+"halcyon health","new york city",healthcare,0,1,2022-04-15,Unknown,"united states",2,1
+handshake,"sf bay area",recruiting,0,0.3233333333333333,2020-05-05,"Series C","united states",74,1
+"happy money","los angeles",finance,158,0.34,2022-11-30,"Series D","united states",191,1
+harappa,"new delhi",education,60,0.3,2023-01-03,Acquired,india,0,1
+hash,"sao paulo",finance,58,0.5,2022-08-01,"Series C",brazil,58,1
+hashicorp,"sf bay area",security,69,0.15754716981132072,2023-01-11,Post-IPO,"united states",349,1
+haus,"sf bay area",food,0,1,2022-08-09,Seed,"united states",7,1
+havenly,denver,consumer,5,0.2669565217391305,2020-07-01,"Series C","united states",58,1
+headspace,"los angeles",healthcare,50,0.04,2022-12-14,Unknown,"united states",215,1
+"health iq","sf bay area",healthcare,0,0.28008064516129033,2022-12-19,"Series D","united states",136,1
+healthcare.com,miami,healthcare,149,0.28008064516129033,2022-08-03,"Series C","united states",244,1
+healthifyme,bengaluru,fitness,150,0.30571428571428577,2022-12-03,"Series C",india,100,1
+healthmatch,sydney,healthcare,18,0.5,2022-06-28,"Series B",australia,20,1
+hedvig,stockholm,finance,12,0.24579896907216495,2022-09-01,"Series B",sweden,67,1
+hellofresh,"sf bay area",food,611,0.3240361445783133,2022-10-10,Post-IPO,"united states",367,1
+"help scout",boston,support,0,0.19624999999999995,2022-11-01,"Series B","united states",28,1
+help.com,austin,support,16,1,2020-03-16,Seed,"united states",6,1
+"her campus media",boston,media,10,0.18,2020-06-10,Unknown,"united states",0,1
+heroes,london,retail,24,0.2,2022-07-15,Unknown,"united states",265,1
+heycar,berlin,transportation,73,0.2508131868131868,2023-01-27,Unknown,germany,0,1
+hibob,"tel aviv",hr,70,0.3,2020-03-30,"Series A",israel,45,1
+highradius,bengaluru,finance,25,0.24579896907216495,2022-11-09,"Series C",india,475,1
+highsnobiety,berlin,media,51,0.25,2020-04-01,"Series A",germany,9,1
+highspot,seattle,sales,100,0.1,2023-02-02,"Series F","united states",644,1
+hipcamp,"sf bay area",travel,0,0.6,2020-04-20,"Series B","united states",41,1
+"hippo insurance","sf bay area",finance,70,0.1,2022-08-31,Post-IPO,"united states",1300,1
+hirect,bengaluru,recruiting,200,0.4,2022-11-28,"Series A",india,0,1
+hired,"sf bay area",recruiting,0,0.3233333333333333,2020-06-30,"Series D","united states",132,1
+hireology,chicago,recruiting,36,0.17,2020-05-12,"Series D","united states",52,1
+hodlnaut,singapore,"crypto currency",40,0.8,2022-08-19,Unknown,singapore,0,1
+hologram,chicago,infrastructure,80,0.4,2022-06-09,"Series B","united states",82,1
+homebot,denver,"real estate",18,0.13,2022-12-19,Acquired,"united states",4,1
+homebound,"sf bay area","real estate",0,0.30945945945945946,2022-12-02,Unknown,"united states",128,1
+homelight,"sf bay area","real estate",0,0.19,2022-06-29,"Series D","united states",743,1
+homepoint,phoenix,"real estate",113,0.30945945945945946,2022-11-17,Post-IPO,"united states",0,1
+homeward,austin,"real estate",0,0.2,2022-08-10,"Series B","united states",160,1
+homie,"salt lake city","real estate",40,0.13,2022-10-04,"Series B","united states",35,1
+homie,"salt lake city","real estate",119,0.29,2022-02-14,"Series B","united states",35,1
+hooq,singapore,consumer,250,1,2020-03-27,Unknown,singapore,95,1
+hootsuite,vancouver,marketing,50,0.05,2022-11-01,"Series C",canada,300,1
+hootsuite,vancouver,marketing,70,0.07,2023-01-18,"Series C",canada,300,1
+hootsuite,vancouver,marketing,400,0.3,2022-08-09,"Series C",canada,300,1
+hopin,london,other,0,0.17,2022-11-16,"Series D","united kingdom",1000,1
+hopin,london,other,138,0.12,2022-02-10,"Series D","united states",1000,1
+hopin,london,other,242,0.29,2022-07-11,"Series D","united kingdom",1000,1
+hopper,boston,travel,0,0.3180952380952381,2020-04-06,"Series D","united states",183,1
+hopskipdrive,"los angeles",transportation,0,0.2508131868131868,2020-08-12,Unknown,"united states",45,1
+hopskipdrive,"los angeles",transportation,8,0.1,2020-03-13,Unknown,"united states",45,1
+"horizn studios",berlin,travel,15,0.25,2020-04-24,"Series B",germany,30,1
+hotmart,"belo horizonte",marketing,227,0.12,2022-10-20,"Series C",brazil,127,1
+houzz,"sf bay area",consumer,95,0.08,2022-12-07,"Series E","united states",613,1
+houzz,"sf bay area",consumer,155,0.1,2020-04-21,"Series E","united states",613,1
+hoxhunt,helsinki,security,0,0.15754716981132072,2023-01-29,"Series B",finland,43,1
+hp,"tel aviv",hardware,100,0.22,2023-02-19,Post-IPO,israel,4200,1
+huawei,shenzen,hardware,0,0.22,2022-10-16,Unknown,china,0,1
+hubba,toronto,retail,45,1,2021-02-01,"Series B",canada,61,1
+hubhaus,"sf bay area","real estate",0,1,2020-09-11,"Series A","united states",13,1
+hubilo,"sf bay area",marketing,45,0.12,2022-07-12,"Series B","united states",153,1
+hubilo,"sf bay area",other,115,0.35,2023-01-19,"Series B","united states",153,1
+hubspot,boston,marketing,500,0.07,2023-01-31,Post-IPO,"united states",100,1
+huffpo,"new york city",media,47,0.23245901639344263,2021-03-09,Acquired,"united states",37,1
+humanforest,london,transportation,0,0.2508131868131868,2020-09-25,"Private Equity","united kingdom",2,1
+humble,"sf bay area",media,10,0.23245901639344263,2022-04-15,Acquired,"united states",4,1
+humu,"sf bay area",hr,26,0.21926829268292683,2020-04-02,"Series B","united states",40,1
+hunty,bogota,hr,30,0.21926829268292683,2022-06-14,Seed,colombia,6,1
+huobi,beijing,"crypto currency",275,0.2,2023-01-06,Unknown,china,2,1
+huobi,beijing,"crypto currency",300,0.3,2022-06-28,Unknown,china,2,1
+hydrow,boston,fitness,0,0.35,2022-07-18,"Series D","united states",269,1
+hydrow,boston,fitness,30,0.30571428571428577,2023-01-19,"Series D","united states",269,1
+hyperscience,"new york city",data,100,0.25,2022-03-03,"Series E","united states",289,1
+"iam robotics",pittsburgh,hardware,0,0.22,2023-01-19,Unknown,"united states",21,1
+ibm,"new york city",hardware,3900,0.02,2023-01-25,Post-IPO,"united states",0,1
+ibotta,denver,retail,87,0.15,2020-04-07,"Series D","united states",85,1
+icertis,seattle,legal,0,0.2333333333333334,2023-01-19,Unknown,"united states",521,1
+icon,austin,construction,0,0.28400000000000003,2023-01-24,"Series B","united states",451,1
+id.me,"washington d.c.",security,130,0.15754716981132072,2022-06-07,Unknown,"united states",275,1
+ideoclick,seattle,retail,40,0.27253968253968247,2022-05-04,"Series A","united states",7,1
+ifit,logan,fitness,0,0.30571428571428577,2021-12-08,"Private Equity","united states",200,1
+ifit,logan,fitness,300,0.2,2022-11-14,"Private Equity","united states",200,1
+iflix,"kuala lumpur",consumer,50,0.12,2020-04-04,Unknown,malaysia,348,1
+ifood,"sao paulo",food,355,0.06,2023-03-01,Subsidiary,brazil,2100,1
+igenous,seattle,data,0,0.19599999999999998,2020-11-17,"Series C","united states",67,1
+ignite,"sf bay area","crypto currency",0,0.5,2022-07-11,"Series A","united states",9,1
+ignition,sydney,finance,0,0.1,2023-01-16,"Series C",australia,74,1
+ike,"sf bay area",transportation,10,0.14,2020-04-22,"Series A","united states",52,1
+illumina,"san diego",healthcare,500,0.05,2022-11-14,Post-IPO,"united states",28,1
+"immersive labs",bristol,security,38,0.1,2022-08-30,"Series C","united kingdom",123,1
+immutable,sydney,"crypto currency",0,0.11,2023-02-22,"Series C",australia,279,1
+immutable,sydney,"crypto currency",20,0.06,2022-07-26,"Series C",australia,279,1
+impact.com,"los angeles",marketing,0,0.1,2022-08-25,"Private Equity","united states",361,1
+impala,london,travel,30,0.35,2022-06-01,"Series B","united kingdom",32,1
+"imperfect foods","sf bay area",food,0,0.3240361445783133,2021-09-22,"Series D","united states",229,1
+"imperfect foods","sf bay area",food,50,0.3240361445783133,2022-07-29,"Series D","united states",229,1
+"impossible foods","sf bay area",food,50,0.06,2022-10-06,"Series H","united states",1900,1
+"impossible foods copy","sf bay area",food,140,0.2,2023-01-30,"Series H","united states",1900,1
+improbable,london,other,0,0.1,2022-12-16,Unknown,"united kingdom",704,1
+"included health","sf bay area",healthcare,0,0.06,2022-07-25,"Series E","united states",272,1
+"incredible health","sf bay area",healthcare,9,0.4,2020-04-01,"Series A","united states",15,1
+indebted,sydney,finance,40,0.17,2022-07-26,"Series B",australia,41,1
+indigo,boston,other,0,0.2231764705882353,2023-03-03,"Series F","united states.",1200,1
+indigo,boston,other,80,0.2231764705882353,2021-02-09,"Series F","united states",1200,1
+industrious,"new york city","real estate",90,0.2,2020-04-02,"Series D","united states",222,1
+infarm,berlin,other,50,0.05,2022-09-14,"Series D",germany,604,1
+infarm,berlin,other,500,0.5,2022-11-28,"Series D",germany,604,1
+influitive,toronto,marketing,0,0.20529702970297023,2020-04-17,Unknown,canada,59,1
+influxdata,"sf bay area",data,65,0.27,2022-11-10,"Series D","united states",119,1
+infogrid,london,other,0,0.2231764705882353,2022-11-16,"Series A","united kingdom",15,1
+informatica,"sf bay area",data,450,0.07,2023-01-10,Post-IPO,"united states",0,1
+infosum,london,security,20,0.12,2022-10-19,"Series B","united kingdom",88,1
+inmobi,bengaluru,marketing,50,0.20529702970297023,2023-01-23,Unknown,india,320,1
+innovaccer,"sf bay area",healthcare,90,0.08,2022-09-01,"Series E","united states",379,1
+innovaccer,"sf bay area",healthcare,245,0.15,2023-01-24,"Series E","united states",379,1
+innovid,"new york city",marketing,40,0.1,2023-01-23,Post-IPO,"united states",295,1
+inscripta,boulder,healthcare,43,0.28008064516129033,2022-12-08,"Series E","united states",459,1
+inspectify,seattle,"real estate",0,0.30945945945945946,2022-11-28,"Series A","united states",11,1
+inspirato,denver,travel,109,0.12,2023-01-18,Post-IPO,"united states",179,1
+inspirato,denver,travel,130,0.22,2020-03-16,"Series C","united states",79,1
+instacart,"sf bay area",food,0,0.3240361445783133,2022-09-24,Unknown,"united states",2900,1
+instacart,"sf bay area",food,1877,0.3240361445783133,2021-01-21,Unknown,"united states",2400,1
+instamojo,bengaluru,finance,6,0.06,2020-04-02,Unknown,india,8,1
+instructure,"salt lake city",education,150,0.12,2020-05-27,Acquired,"united states",89,1
+intapp,"sf bay area",legal,45,0.05,2020-05-18,"Private Equity","united states",0,1
+"integral ad science","new york city",marketing,70,0.1,2020-05-14,Acquired,"united states",116,1
+"integral ad science","new york city",marketing,120,0.13,2022-12-07,Acquired,"united states",116,1
+integrate.ai,toronto,support,26,0.19624999999999995,2020-06-09,Unknown,canada,40,1
+intel,"sf bay area",hardware,201,0.22,2022-12-06,Post-IPO,"united states",12,1
+intel,"sf bay area",hardware,343,0.22,2023-01-30,Post-IPO,"united states",12,1
+intercom,"sf bay area",support,39,0.06,2020-05-20,"Series D","united states",240,1
+intercom,"sf bay area",support,49,0.05,2022-09-07,"Series D","united states",240,1
+intercom,"sf bay area",support,124,0.13,2022-11-14,"Series D","united states",240,1
+intersect,toronto,product,19,0.11,2020-05-13,Acquired,canada,0,1
+intrinsic,"sf bay area",other,40,0.2,2023-01-11,Acquired,"united states",0,1
+introhive,ferdericton,sales,57,0.16,2022-07-20,"Series C",canada,125,1
+intuit,"sf bay area",finance,715,0.07,2020-06-22,Post-IPO,"united states",18,1
+invision,"new york city",product,0,0.2448275862068965,2020-08-14,"Series F","united states",350,1
+invision,"new york city",product,22,0.2448275862068965,2021-10-05,Unknown,"united states",356,1
+invitae,"sf bay area",healthcare,1000,0.28008064516129033,2022-07-19,Post-IPO,"united states",2000,1
+involves,florianã³polis,retail,70,0.18,2022-07-13,Unknown,brazil,23,1
+"iprice group","kuala lumpur",retail,50,0.2,2022-06-08,Unknown,malaysia,26,1
+"iris nova","new york city",food,9,0.5,2020-03-30,Seed,"united states",15,1
+irl,"sf bay area",consumer,25,0.25,2022-06-02,"Series C","united states",197,1
+irobot,boston,consumer,85,0.07,2023-02-13,Acquired,"united states",30,1
+irobot,boston,consumer,140,0.1,2022-08-05,Acquired,"united states",30,1
+"iron ox","sf bay area",food,50,0.5,2022-11-02,"Series C","united states",103,1
+ironnet,"washington d.c.",security,55,0.17,2022-06-22,Post-IPO,"united states",410,1
+ironnet,"washington d.c.",security,90,0.35,2022-06-22,Post-IPO,"united states",410,1
+"jam city","los angeles",consumer,200,0.17,2022-08-04,Unknown,"united states",652,1
+jama,portland,product,12,0.05,2020-03-25,Unknown,"united states",233,1
+jd.id,jakarta,retail,200,0.3,2022-12-14,Post-IPO,indonesia,5100,1
+jellyfish,boston,product,0,0.09,2023-01-13,"Series C","united states",114,1
+jellysmack,"new york city",media,0,0.08,2022-06-09,"Series C","united states",22,1
